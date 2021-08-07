@@ -1,7 +1,7 @@
 #language:ru
 #encoding:UTF-8
 
-  @test
+  @test @google
   Функционал: Проверка поиска информации в Google
 
     Сценарий: Проверка, что первая ссылка в Google по запросу senla, ведет на сайт https://senlainc.com

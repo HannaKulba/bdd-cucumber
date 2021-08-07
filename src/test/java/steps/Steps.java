@@ -1,7 +1,6 @@
 package steps;
 
 import io.cucumber.java.ru.Допустим;
-import io.cucumber.java.ru.И;
 import io.cucumber.java.ru.Тогда;
 import org.openqa.selenium.By;
 

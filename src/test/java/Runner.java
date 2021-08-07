@@ -6,8 +6,8 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/test/resources/features",
         glue = "steps",
-        tags = "@test",
-        dryRun = true,
+        tags = "@google",
+//        dryRun = true,
         snippets = CucumberOptions.SnippetType.CAMELCASE)
 public class Runner {
 
